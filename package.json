@@ -5,7 +5,7 @@
   "keywords": [],
   "author": {
     "name": "Manoj Swami",
-    "email": "manojswami600@gmail.com",
+    "email": "manojswami600@gmail.com"
   },
   "repository": {
       "type": "git",
@@ -14,9 +14,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@manojspace"
   },
-  "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {},
-  "scripts": {},
-  "browserslist": []
+  "main": "index.js"
 }
