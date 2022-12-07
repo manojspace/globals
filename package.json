@@ -12,7 +12,7 @@
       "url": "git+https://github.com/manojspace/globals"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/global-methods"
+    "registry": "https://npm.pkg.github.com/manojspace"
   },
   "main": "index.js"
 }
