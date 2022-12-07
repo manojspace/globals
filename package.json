@@ -1,0 +1,11 @@
+{
+  "name": "global-methods",
+  "version": "1.0.0",
+  "description": "global repeatitive general methods",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "browserslist": []
+}
