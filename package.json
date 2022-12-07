@@ -3,6 +3,17 @@
   "version": "1.0.0",
   "description": "global repeatitive general methods",
   "keywords": [],
+  "author": {
+    "name": "Manoj Swami",
+    "email": "manojswami600@gmail.com",
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/manojspace/globals"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@manojspace"
+  },
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
