@@ -9,10 +9,10 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/manojspace/globals"
+      "url": "git+https://github.com/manojspace/globals"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@manojspace"
+    "registry": "https://npm.pkg.github.com/global-methods"
   },
   "main": "index.js"
 }
